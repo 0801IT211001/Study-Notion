@@ -12,7 +12,7 @@ Students can view and learn from courses.
 Getting Started
 To get started with StudyNotion, you will need to:
 
-just hit: https://my-study-notion.vercel.app/
+just hit: 
 
 Create and manage courses as an instructor.
 Browse and purchase courses as a student.
